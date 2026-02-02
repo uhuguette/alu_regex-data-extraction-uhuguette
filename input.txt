@@ -1,0 +1,19 @@
+Hello support team,
+
+You can contact me at huguette.dev@gmail.com or admin@company.co.uk.
+Visit our website at https://www.example.com or http://test.org/page.
+
+My phone numbers are:
+(250) 788-123-456
++250-723-456-789
+
+Payment made: $1,234.56 and $19.99
+Card used: 1234-5678-9012-3456
+
+Meeting time: 14:30 or 2:30 PM
+
+Post tags: #Frontend #JavaScript #ALU
+
+Some HTML:
+<div class="box">Hello</div>
+<script>alert("hack")</script>
